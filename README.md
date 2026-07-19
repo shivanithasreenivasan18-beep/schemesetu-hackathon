@@ -59,7 +59,7 @@ streamlit run app.py
 
 ## Deployment
 
-This app is deployed and live at: **[ADD YOUR DEPLOYED LINK HERE]**
+This app is deployed and live at: **https://schemesetu-hackathon-q4ccvrappqfcbpv5swtjg9a.streamlit.app**
 
 ## Demo Video
 
