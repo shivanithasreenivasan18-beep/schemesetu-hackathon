@@ -63,7 +63,7 @@ This app is deployed and live at: **https://schemesetu-hackathon-q4ccvrappqfcbpv
 
 ## Demo Video
 
-**[ADD YOUR 2–3 MIN DEMO VIDEO LINK HERE]**
+**[https://drive.google.com/open?id=1UwbutUNSOT_2w7yfc-XivuPwHMRC46I-&usp=drive_fs]**
 
 ## Future Scope
 
