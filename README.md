@@ -53,7 +53,7 @@ user's actual input, not hardcoded rules.
 git clone <this-repo-url>
 cd schemesetu
 pip install -r requirements.txt
-export GROQ_API_KEY="your_free_groq_api_key"   # get one free at console.groq.com
+export GROQ_API_KEY="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"   
 streamlit run app.py
 ```
 
